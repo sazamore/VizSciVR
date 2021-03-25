@@ -4,8 +4,6 @@ Development of immersive stimuli for VR behavioral experiments
 This repository contains scripts, assets and Unity builds for recreating visual science tools for VR. 
 A detailed document description can be found below.
 
-Last update: Nov 23, 2020
-
 - **Assets folder** - contains prefabs and components for virtual arena (continually moving visual stimuli)
 - **Scenes folder** - empty
 - **Scripts folder** - contains scripts for named scenes
